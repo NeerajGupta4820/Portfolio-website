@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio-website/static/css/main.dac018e1.css",
+    "main.js": "/Portfolio-website/static/js/main.08411a74.js",
+    "static/media/ecommerce.png": "/Portfolio-website/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/sidebar.png": "/Portfolio-website/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/musicapp.png": "/Portfolio-website/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/boy.png": "/Portfolio-website/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/glassesimoji.png": "/Portfolio-website/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/hoc.png": "/Portfolio-website/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/thumbup.png": "/Portfolio-website/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/cv.docx": "/Portfolio-website/static/media/cv.fe665cfb4541cd3e77ed.docx",
+    "static/media/humble.png": "/Portfolio-website/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Portfolio-website/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/Portfolio-website/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Portfolio-website/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Portfolio-website/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Portfolio-website/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/Portfolio-website/index.html",
+    "main.dac018e1.css.map": "/Portfolio-website/static/css/main.dac018e1.css.map",
+    "main.08411a74.js.map": "/Portfolio-website/static/js/main.08411a74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac018e1.css",
+    "static/js/main.08411a74.js"
+  ]
+}
