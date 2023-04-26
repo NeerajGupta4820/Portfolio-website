@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Rubik&display=swap');
+.n-wrapper{
+    height: 10vh;
+    /* width: 199vh; */
+    display: flex;
+    justify-content: space-between;
+    /* background-color: rgb(147, 210, 252); */
+    border-radius: 20px;
+}
+.n-left{
+    flex: 1;
+    align-items: center;
+    display: flex;
+    gap: 2rem;
+    font-family: 'Poppins', sans-serif;
+
+}
+.n-name{
+    padding: 0px 18px;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+
+.n-right{
+    display: flex;
+    flex: 2;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+    
+    padding-right: 13px;
+}
+.n-list{
+    flex: 10;
+}
+ul{
+    display: flex;
+    gap: 3rem;
+    font-family: 'Poppins', sans-serif;
+}
+ul li:hover{
+    cursor: pointer;
+    color: var(--orange);
+}
+.n-button{
+    flex: 2;
+    
+}
